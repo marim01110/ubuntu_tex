@@ -39,14 +39,12 @@ collection-luatex 1
 collection-mathscience 1
 collection-metapost 1
 collection-music 1
-collection-omega 1
 collection-pictures 1
 collection-plainextra 1
 collection-pstricks 1
 collection-publishers 1
 collection-texworks 1
 collection-xetex 1
-in_place 0
 option_adjustrepo 0
 option_autobackup 1
 option_desktop_integration 1
@@ -54,7 +52,6 @@ option_doc 0
 option_file_assocs 0
 option_fmt 1
 option_letter 0
-option_menu_integration 1
 option_path 0
 option_post_code 1
 option_src 0
