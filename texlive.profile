@@ -13,7 +13,6 @@ collection-genericextra 1
 collection-genericrecommended 1
 collection-htmlxml 1
 collection-humanities 1
-collection-langafrican 0
 collection-langarabic 0
 collection-langchinese 0
 collection-langcjk 0
