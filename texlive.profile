@@ -9,7 +9,6 @@ collection-fontsrecommended 1
 collection-fontutils 1
 collection-formatsextra 1
 collection-games 1
-collection-htmlxml 1
 collection-humanities 1
 collection-langenglish 1
 collection-langjapanese 1
