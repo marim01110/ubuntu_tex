@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 MAINTAINER Kohei Yoshikawa <kohei.yoshikawa@marihome.tk>
-#Updated on 2021.07.16
+#Updated on 2021.11.18
 ENV DEBIAN_FRONTEND=noninteractive
 WORKDIR /opt
 ADD http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz /opt/install-tl-unx.tar.gz
