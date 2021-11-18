@@ -1,14 +1,14 @@
 selected_scheme scheme-minimal
 
 collection-basic 1
-collection-bibtexextra 1
+collection-bibtexextra 0
 collection-binextra 1
 collection-context 1
-collection-fontsextra 1
+collection-fontsextra 0
 collection-fontsrecommended 1
 collection-fontutils 1
-collection-formatsextra 1
-collection-games 1
+collection-formatsextra 0
+collection-games 0
 collection-humanities 1
 collection-langenglish 1
 collection-langjapanese 1
@@ -22,7 +22,7 @@ collection-music 1
 collection-pictures 1
 collection-pstricks 1
 collection-publishers 1
-collection-texworks 1
+collection-texworks 0
 collection-xetex 1
 option_adjustrepo 0
 option_autobackup 1
