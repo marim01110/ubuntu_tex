@@ -1,5 +1,5 @@
-FROM ubuntu:latest
-MAINTAINER Kohei Yoshikawa <kohei.yoshikawa@marihome.tk>
+FROM ubuntu:focal-20211006
+MAINTAINER Kohei Yoshikawa <admin@marihome.tk>
 #Updated on 2021.11.18
 ENV DEBIAN_FRONTEND=noninteractive
 WORKDIR /opt
