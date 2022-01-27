@@ -1,6 +1,6 @@
-FROM ubuntu:focal-20211006
+FROM ubuntu:focal-20220105
 MAINTAINER Kohei Yoshikawa <admin@marihome.tk>
-#Updated on 2021.11.18
+#Updated on 2022.01.27
 ENV DEBIAN_FRONTEND=noninteractive
 WORKDIR /opt
 ADD http://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz /opt/install-tl-unx.tar.gz
